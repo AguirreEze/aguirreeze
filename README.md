@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **aguirre.eze95@gmail.com (Discord: Tydrok#4518)**
 
-- 📄 Know about my experiences [Starting my way on Web Development](Starting my way on Web Development)
+- 📄 Know about me: I'm starting my way on Web Development
+  - Finished [this Bootcamp](https://fullstackopen.com/en/)
+  - Currently working as freelancer 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
