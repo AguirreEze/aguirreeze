@@ -14,7 +14,7 @@
 - 📄 Know about me: I'm starting my way on Web Development
   - Worked my CSS/SCSS skills with [100DaysCSS](https://100dayscss.com). You can find [my Pens here](https://codepen.io/aguirreeze) 
   - Finished [this Bootcamp](https://fullstackopen.com/en/), all exercises in my Repositories
-  - Currently working as freelancer 
+  - Currently looking for my first job as Web Developer 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
