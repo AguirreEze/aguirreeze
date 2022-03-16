@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ReventandoOtrosMundos](https://github.com/AguirreEze/reventando_otros_mundos)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS** and **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AguirreEze](https://github.com/AguirreEze)
 
