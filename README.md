@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AguirreEze](https://github.com/AguirreEze)
 
-- 💬 Ask me about **CSS/SCSS, JS**
+- 💬 Ask me about **CSS/SCSS, JS/TS, ReactJS**
 
 - 📫 How to reach me **aguirre.eze95@gmail.com (Discord: Tydrok#4518)**
 
