@@ -1,17 +1,18 @@
 <h1 align="center">Hello 👋, I'm Ezequiel</h1>
-<h3 align="center">A passionate fullstack developer (onProgress) from Argentina</h3>
+<h3 align="center">A passionate Front-End developer from Argentina</h3>
 
 - 🔭 I’m currently working on MContigo
 
 - 👨‍💻 All of my projects are available at [https://github.com/AguirreEze](https://github.com/AguirreEze)
 
-- 💬 Ask me about **CSS/SCSS, Javascript/Typescript, ReactJS**
+- 💬 Ask me about **NextJS, CSS/SCSS, Javascript/Typescript, ReactJS**
 
 - 📫 How to reach me **aguirre.eze95@gmail.com (Discord: Tydrok#4518)**
 
 - 📄 Know about me: I'm starting my way on Web Development
-  - Worked my CSS/SCSS skills with [100DaysCSS](https://100dayscss.com). You can find [my Pens here](https://codepen.io/aguirreeze) 
+  - Worked my CSS/SCSS skills with [100DaysCSS](https://100dayscss.com). You can find [my Pens here](https://codepen.io/aguirreeze)
   - Finished [this Bootcamp](https://fullstackopen.com/en/), all exercises in my Repositories
+  - Personal proyect: [Reventando otros Mundos](https://reventandootrosmundos.vercel.app)
   - Currently working as Frontend Developer on MContigo
 
 <h3 align="left">Languages and Tools:</h3>
