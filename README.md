@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ezequiel</h1>
-<h3 align="center">A passionate Front-End developer from Argentina</h3>
+<h3 align="center">A passionate Frontend Developer from Argentina</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AguirreEze](https://github.com/AguirreEze)
 
